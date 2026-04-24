@@ -1,0 +1,4 @@
+tkinterdnd2
+python-docx
+spacy
+pyinstaller
